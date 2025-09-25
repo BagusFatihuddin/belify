@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958710853688",
+    "project_id": "belify-461014",
+    "storage_bucket": "belify-461014.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958710853688:android:08d9ffe1614f53c1f476cd",
+        "android_client_info": {
+          "package_name": "com.example.belify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958710853688-mu9pvm3338ekff4psnvk388s53b00nnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwYQFtbpc4mQOUcuE2hZIzxYhTi24D9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958710853688-mu9pvm3338ekff4psnvk388s53b00nnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
